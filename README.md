@@ -1,5 +1,6 @@
 - 😺 Hi, I’m Mustafijur Rahaman
 - 📚 I’m currently learning Python, C++ and JavaScript.
+- 📈 Currently having fun with Manim !!!
   
 
 <!---
